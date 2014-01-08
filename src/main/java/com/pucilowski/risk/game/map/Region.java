@@ -1,4 +1,4 @@
-package com.sadcrab.risk.game.map;
+package com.pucilowski.risk.game.map;
 
 /**
  * Created by martin on 08/01/14.

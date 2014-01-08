@@ -1,4 +1,4 @@
-package com.sadcrab.risk.game.map;
+package com.pucilowski.risk.game.map;
 
 import java.util.ArrayList;
 import java.util.List;
